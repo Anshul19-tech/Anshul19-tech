@@ -19,13 +19,13 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
 
 ## 🚀 Featured Projects
 
-### 🚚 [Logistics Network Design: 2-Day Delivery Optimization](#)
+### 🚚 [Logistics Network Design: 2-Day Delivery Optimization](https://github.com/AnshulSilhare/Logistics-Network-Optimization)
 *Strategic network analysis to achieve 90% US coverage within 48 hours.*
 - **Objective:** Designed a "Lean 5-Node" distribution network (Redlands, Robbinsville, Louisville, Coppell, Lakeland) to balance freight costs vs. speed.
 - **Methodology:** Conducted **Transit Time Analysis** and economic modeling to justify fixed asset allocation.
 - **Outcome:** Validated 100% target city coverage while minimizing capital expansion.
 
-### 📉 [Pharma Demand Forecasting: Statistical Model Selection](#)
+### 📉 [Pharma Demand Forecasting: Statistical Model Selection](https://github.com/AnshulSilhare/Pharma-Demand-Forecasting)
 *Matching the math to the market behavior for a multi-product portfolio.*
 - **Problem:** High volatility in "Product A" vs. stable demand in "Product B" required different forecasting engines.
 - **Analysis:**
@@ -33,12 +33,12 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
     - **Stable Demand:** Applied **Moving Averages** to filter daily noise.
 - **Impact:** Reduced procurement lag and optimized safety stock levels to prevent stockouts.
 
-### 🏭 [Warehouse Layout Optimization: Flow Engineering](#)
+### 🏭 [Warehouse Layout Optimization: Flow Engineering](https://github.com/AnshulSilhare/Warehouse-Layout-Optimization)
 *Redesigning facility layout to resolve bottlenecks.*
 - **Strategy:** Implemented "Cross-Dock" style conveyor systems and segregated Inbound/Outbound zones.
 - **Result:** Theoretically increased throughput capacity by **20%** by minimizing picker travel distance.
 
-### 🏥 [Medical Device Value Stream Mapping](#)
+### 🏥 [Medical Device Value Stream Mapping](https://github.com/AnshulSilhare/Value-Stream-Mapping)
 *Visualizing the gap between planning and reality.*
 - **Analysis:** Mapped the "Current State" flow using Lucidchart, revealing a **96+ hour delay** between assembly and sterilization.
 - **Key Finding:** Identified "Trunk Stock" (hidden inventory) carried by sales reps that was skewing central planning data.
