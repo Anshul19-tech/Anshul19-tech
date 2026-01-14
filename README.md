@@ -3,7 +3,7 @@
 
 I am a **PGDM Candidate in Research & Business Analytics** at WeSchool ('27) with a background in **Biotechnology**. I pivoted from the lab to the boardroom because I realized I enjoyed analyzing the data more than performing the experiments.
 
-Today, I apply that same **scientific rigor** (Hypothesis → Data Collection → Analysis) to solve business problems—treating supply chains as complex organisms that need optimization, not just management.
+Today, I apply that same **scientific rigor** (Hypothesis → Data Collection → Analysis) to solve business problems, treating supply chains as complex organisms that need optimization, not just management.
 
 ---
 
